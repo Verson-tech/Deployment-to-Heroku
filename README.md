@@ -1,6 +1,6 @@
 
 
-# <h1><strong><em>Project Title:  </em></strong>  Deployment-to-Heroku</H1>
+# <h1><strong><em>Project Title:</em></strong>   Deployment-to-Heroku</H1>
 <strong><em>Description of Project:</em></strong>Deployment-to-Heroku <br>
 <strong><em>How to Run:</em></strong>  <br>
 <strong><em>Roadmap of future improvements:</em></strong>  This project is for educational purposes. <br>
